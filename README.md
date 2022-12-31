@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_700/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA)](https://Pratik-Shrivastava.io)
+[![MasterHead](https://img.freepik.com/premium-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=2000)](https://Pratik-Shrivastava.io)
 <h1 align="center">Hello World 👋, I'm Pratik Shrivastava</h1>
 <h3 align="center">A passionate full stack Java Developer from India.</h3>
 
