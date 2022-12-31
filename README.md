@@ -1,3 +1,4 @@
+[![MasterHead](https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_700/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA)](https://Pratik-Shrivastava.io)
 <h1 align="center">Hello World 👋, I'm Pratik Shrivastava</h1>
 <h3 align="center">A passionate full stack Java Developer from India.</h3>
 
