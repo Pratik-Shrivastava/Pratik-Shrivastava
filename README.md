@@ -1,6 +1,11 @@
-[![MasterHead](https://img.freepik.com/premium-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=2000)](https://Pratik-Shrivastava.io)
+[![MasterHead](https://idsb.tmgrup.com.tr/ly/uploads/images/2022/02/04/180030.jpg)](https://Pratik-Shrivastava.io)
 <h1 align="center">Hello World 👋, I'm Pratik Shrivastava</h1>
-<h3 align="center">A passionate full stack Java Developer from India.</h3>
+<h3 align="center"> A passionate full stack web Developer from India.</h3>
+
+<h3 align="left">✅ Efficient in coding.</h3>
+<h3 align="left">✅ Proficient in JAVA, C and PYTHON language.</h3>
+<h3 align="left">✅ Talks about Data Structure.</h3>
+<h3 align="left">✅ Interested in design and integration of Algorithm.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
