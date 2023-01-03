@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)](https://Pratik-Shrivastava.io)
 <h1 align="center">Hello World 👋, I'm Pratik Shrivastava</h1>
-<h3 align="center"> A passionate developer searching for his place in this Metaverse.</h3>
+<h3 align="center"> A passionate developer searching for his place in this world🌏 .</h3>
 
 <h3 align="left">✅ Efficient in coding.</h3>
 <h3 align="left">✅ Proficient in JAVA, C and PYTHON language.</h3>
