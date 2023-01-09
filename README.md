@@ -1,4 +1,4 @@
-[![MasterHead](https://www.insurancejournal.com/app/uploads/2022/11/Metaverse-bigstock-scaled.jpg)](https://Pratik-Shrivastava.io)
+[![MasterHead](https://www.technewsworld.com/wp-content/uploads/sites/3/2022/08/metaverse-future.jpg)](https://Pratik-Shrivastava.io)
 <h1 align="center">Hello World 👋, I'm Pratik Shrivastava</h1>
 <h3 align="center"> A passionate developer searching for his place in this world🌏 .</h3>
 
