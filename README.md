@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)](https://Pratik-Shrivastava.io)
+[![MasterHead](https://www.insurancejournal.com/app/uploads/2022/11/Metaverse-bigstock-scaled.jpg)](https://Pratik-Shrivastava.io)
 <h1 align="center">Hello World 👋, I'm Pratik Shrivastava</h1>
 <h3 align="center"> A passionate developer searching for his place in this world🌏 .</h3>
 
