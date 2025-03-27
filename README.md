@@ -5,7 +5,7 @@
   I am a passionate developer with a strong background in <b>java development</b>. With hands-on experience in building scalable applications, I have developed expertise in <b>Spring Boot, Java, Python, Flask, and Data Structures & Algorithms</b>.
 </p>
 <p align="justify">
-  My GitHub profile showcases my dedication to open-source projects and innovative software development. I have worked on projects like <b>Find My Candidate</b>, a hiring platform with advanced resume parsing, intelligent candidate ranking, and seamless job matching, and a multiplayer online version of the <b>Red Flags</b> game. I am always eager to learn new technologies and improve my technical skills. Open-source development and collaborative problem-solving drive my passion for coding, and I strive to contribute meaningfully to the global developer community.
+  My GitHub profile showcases my dedication to open-source projects and innovative software development. I have worked on projects like <b>Find My Candidate</b>, a hiring platform with advanced resume parsing, and seamless job matching, and a multiplayer online version of the <b>Red Flags</b> game. I am always eager to learn new technologies and improve my technical skills. Open-source development and collaborative problem-solving drive my passion for coding, and I strive to contribute meaningfully to the global developer community.
 
 </p>
 
