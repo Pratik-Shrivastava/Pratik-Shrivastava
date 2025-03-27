@@ -1,8 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+![MasterHead](/img/banner.gif)
 <h1 align="center">Hi 👋, I'm Pratik Shrivastava</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <p align="justify">
-  I am a passionate developer with a strong background in <b>java development</b>. With hands-on experience in building scalable applications, I have developed expertise in <b>Spring Boot, Java, Python, Flask, and Data Structures & Algorithms</b>.
+  I am a passionate developer with a strong background in <b>java development</b>. With hands-on experience in building scalable applications, I have developed expertise in <b>React, Spring Boot, Java, Python, Flask, and Data Structures & Algorithms</b>.
 </p>
 <p align="justify">
   My GitHub profile showcases my dedication to open-source projects and innovative development. I have worked on projects like <b>Find My Candidate</b>, a hiring platform with advanced resume parsing and candidate ranking, and a multiplayer online version of the <b>Red Flags</b> game.
