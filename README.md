@@ -1,13 +1,16 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://deepdey.tech)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 <h1 align="center">Hi 👋, I'm Pratik Shrivastava</h1>
-<h3 align="center">A passionate developer from India</h3>
-<p align="center">
-  I am a passionate developer with a strong background in <b>full stack web development</b>. With 1 years of experience in the industry, I have developed a deep understanding of <b>React, Python, Flask, Java, Node, Data structure and algorithm.</B>.
-</P>
-<p align="center">
-My GitHub profile is a reflection of my commitment to open-source projects and collaboration within the developer community. Here, you will find a variety of repositories showcasing my projects and contributions to other open-source projects.
-I am constantly striving to learn new things and improve my skills, and my GitHub profile is one of the ways in which I do so. I believe that open-source is the future of software development and I am excited to be a part of this community.
-</P>
+<h3 align="center">A passionate Java developer from India</h3>
+<p align="justify">
+  I am a passionate developer with a strong background in <b>java development</b>. With hands-on experience in building scalable applications, I have developed expertise in <b>Spring Boot, Java, Python, Flask, and Data Structures & Algorithms</b>.
+</p>
+<p align="justify">
+  My GitHub profile showcases my dedication to open-source projects and innovative development. I have worked on projects like <b>Find My Candidate</b>, a hiring platform with advanced resume parsing and candidate ranking, and a multiplayer online version of the <b>Red Flags</b> game.
+</p>
+<p align="justify">
+  I am always eager to learn new technologies and improve my skills. Open-source development and collaborative problem-solving drive my passion for coding, and I strive to contribute meaningfully to the developer community.
+</p>
+
 
 <img height="230" align="right" alt="coding" src="https://media2.giphy.com/media/MunViQ5feR29sMFVfa/giphy.gif?cid=6c09b952c7jgvpp3bgsgpsv3g2gk3sob02xw7i851m73fgfz&rid=giphy.gif&ct=s">
 
