@@ -34,7 +34,7 @@
 -   🌱 I’m currently learning **Express.js, MongoDB**
 -   👨‍💻 All of my projects are available at [https://github.com/Pratik-Shrivastava](https://github.com/Pratik-Shrivastava)
 -   💬 Ask me about **Java, Data Structure & Algorithm, Flask, Node and Tensorflow**
--   📫 How to reach me **pratikkumar441@gmail.com**
+-   📫 How to reach me **pratik.backend.developer@gmail.com**
 -   📄 Connect with me [https://www.linkedin.com/in/pratik-shrivastava1/](https://www.linkedin.com/in/pratik-shrivastava1/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pratik-shrivastava&show_icons=true&locale=en&theme=transparent" alt="pratik-shrivastava" /></p>
