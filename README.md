@@ -14,19 +14,22 @@
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left"> 
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="/img/springboot.png" alt="spring boot" width="40" height="40"/> 
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="/img/java.png" alt="java" width="40" height="40"/>
 </a> 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="/img/java.png" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="/img/redis.png" alt="redis" width="40" height="40"/>
-</a>
 <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="/img/c.png" alt="c" width="40" height="40"/> 
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
  </a> 
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="/img/python.png" alt="python" width="40" height="40"/> 
 </a> 
- <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="/img/springboot.png" alt="spring boot" width="40" height="40"/> 
+
+</a> 
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="/img/redis.png" alt="redis" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+</a>
+</p>
 
 -   🌱 I’m currently learning **Express.js, MongoDB**
 -   👨‍💻 All of my projects are available at [https://github.com/Pratik-Shrivastava](https://github.com/Pratik-Shrivastava)
